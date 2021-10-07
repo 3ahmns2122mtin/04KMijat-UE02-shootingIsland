@@ -33,4 +33,4 @@ Bitte hier nicht, ich kann nicht programmieren, sondern was wurde im Projekt von
 - [ ] Neptune
 - [ ] Comet Haley
 
-Copyright by you :)
+Copyright by Kristina :)
