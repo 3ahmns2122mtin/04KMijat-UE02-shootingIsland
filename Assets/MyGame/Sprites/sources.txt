@@ -1,0 +1,13 @@
+bulls-eye-150243_640.png: https://pixabay.com/de/vectors/bull-s-eye-ziel-objekt-center-tor-150243/
+
+crosshair-467258_640.png: https://pixabay.com/de/vectors/fadenkreuz-anvisieren-zielen-467258/
+
+gewonnen.png: smeerws
+
+shoot.wav: https://freesound.org/s/435417/
+
+target-36797_640.png: https://pixabay.com/de/vectors/ziel-pfeil-bogen-sport-schlag-36797/
+
+upklyak-island.jpg --> Background 
+<a href='https://de.freepik.com/vektoren/baum'>Baum Vektor erstellt von upklyak - de.freepik.com</a>
+https://www.freepik.com/free-vector/beach-hut-tropical-island-resort_12900272.htm
