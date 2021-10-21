@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 22
-  productGUID: b245dc152811d1f45bb1280df2c1dd4e
+  productGUID: 86959acbb1195124ba2f2d4e96752ac3
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -12,9 +12,9 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: KMIJAT
-  productName: 04KMijat-UE02-shootingIsland
-  defaultCursor: {fileID: 2800000, guid: 0caec0f9ee6d3754ba812952b2c324a6, type: 3}
+  companyName: KMijat
+  productName: 4KMijat-shootingIsland
+  defaultCursor: {fileID: 2800000, guid: 8da10ece3dac24d4092264531b47318d, type: 3}
   cursorHotspot: {x: 64, y: 64}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
   m_ShowUnitySplashScreen: 1
@@ -265,7 +265,14 @@ PlayerSettings:
   AndroidMinifyDebug: 0
   AndroidValidateAppBundleSize: 1
   AndroidAppBundleSizeToValidate: 150
-  m_BuildTargetIcons: []
+  m_BuildTargetIcons:
+  - m_BuildTarget: 
+    m_Icons:
+    - serializedVersion: 2
+      m_Icon: {fileID: 2800000, guid: f9f8221b8dc1e96439bf58b969f05e78, type: 3}
+      m_Width: 128
+      m_Height: 128
+      m_Kind: 0
   m_BuildTargetPlatformIcons: []
   m_BuildTargetBatching: []
   m_BuildTargetGraphicsJobs:
