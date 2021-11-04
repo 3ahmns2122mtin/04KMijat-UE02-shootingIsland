@@ -813,6 +813,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5901278847833167907, guid: 1bafc11eb11959b40bc3aa2dda2769cf, type: 3}
+      propertyPath: scoreNew
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5901278847833167907, guid: 1bafc11eb11959b40bc3aa2dda2769cf, type: 3}
       propertyPath: parentOfTargets
       value: 
       objectReference: {fileID: 1731729078}

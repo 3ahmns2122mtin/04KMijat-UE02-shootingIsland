@@ -8,7 +8,8 @@ public class GameManager : MonoBehaviour
     public GameObject parentOfTargets;
 
     public bool won;
-    public int score;
+    public int scoreNew;
+
 
     // Start is called before the first frame update
     void Start()
@@ -57,10 +58,10 @@ public class GameManager : MonoBehaviour
 
     public void IncrementScore()
     {
-        score++;
-        Debug.Log("increment ..." + score);
+        scoreNew++;
+        Debug.Log("increment ..." + scoreNew);
 
-        if(score > 10)
+        if(scoreNew > 10)
         {
             won = true;
         }
